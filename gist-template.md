@@ -1,12 +1,13 @@
 # Matching a Hex Value - Regex Tutorial 
 
-
+In Javascript, there are many ways to search and check through data. Whether its looking for certain letters, symbols or numbers you can 
+set up certain methods to do so, but these methods have their limits. These limits are where <b>regular expressions</b> come in. Regular expressions, or <b>regex</b> for short, are a series of special characters that define a search pattern. Using regular expressions, you can tailor your search down to the last detail in a neat string, versus using a cluster of methods that may busy up your code. 
 
 ## Summary
 
-/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+`/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Today we will be going over the regex above, which is used to match a hex value. A hex value is used for 
 
 ## Table of Contents
 
