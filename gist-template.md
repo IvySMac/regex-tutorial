@@ -1,8 +1,10 @@
-# Title (replace with your title)
+# Matching a Hex Value - Regex Tutorial 
 
-Introductory paragraph (replace this with your text)
+
 
 ## Summary
+
+/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
@@ -19,9 +21,12 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Regex Components
 
+
 ### Anchors
 
+
 ### Quantifiers
+
 
 ### Grouping Constructs
 
